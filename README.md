@@ -1,12 +1,18 @@
 # Project Title: MediSync - Healthcare Management Mobile Application
 
+![Splash Screen](https://drive.google.com/uc?export=view&id=1ezaEsRFytLkzpSEY5cb_HWovkgteTUUt)
+
 ## Project Description
 
 MediSync is an innovative and user-centric mobile application designed to revolutionize the way individuals manage their healthcare. This comprehensive healthcare management solution streamlines the entire healthcare experience, from accessing health records and scheduling appointments to secure communication with healthcare providers and much more.
 
+![File Options](https://drive.google.com/uc?export=view&id=1ePeElONmfm2Yo7x90vHcvd1HX7v0Hwzi)
+
 ## Project Overview
 
 In today's fast-paced world, managing healthcare can be a daunting task, often involving scattered records, manual appointment scheduling, and fragmented communication with healthcare professionals. MediSync addresses these challenges head-on by providing a holistic, user-friendly platform that simplifies healthcare management for both patients and healthcare providers.
+
+![Home Screen](https://drive.google.com/uc?export=view&id=1eX3-rl0uE5EQQ1onSflxY9IL5gYeOITB)
 
 ## Key Features
 
